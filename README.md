@@ -1,5 +1,5 @@
 # AttendanceMarking-FaceRecognition
-Attendance marking management tool using face recognition
+Attendance marking management tool using face recognition. Code needs an "Employees" Folder with .Jpeg files to compare the camera input. .Jpeg files must be named with the name you want to display on the result.
 
 # What I Learned
 * Face_recognition library
